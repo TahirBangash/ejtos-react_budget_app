@@ -1,0 +1,11 @@
+.increaceButton{
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+}
+
+.decreaceButton{
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+}
